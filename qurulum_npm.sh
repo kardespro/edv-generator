@@ -1,0 +1,3 @@
+echo NODEJS Qurulur ....
+sudo apt install npm
+
